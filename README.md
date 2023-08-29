@@ -1,2 +1,2 @@
 # Syncinternship-projects
-real time facemask detection preject
+real time facemask detection project
